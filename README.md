@@ -1,0 +1,2 @@
+# NSwitch_jpg_mov_getter
+NSwitchの画像と動画をそれぞれ1フォルダに集約
